@@ -1,3 +1,6 @@
 this is a new file with different entries. 
 
 dev branch
+
+
+developing new features
